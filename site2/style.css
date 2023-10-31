@@ -1,0 +1,121 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headerContainer{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: #db8a2e;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.titleHeader{
+    color: rgb(175, 175, 175);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(180, 178, 178)
+}
+
+.titleH2{
+    font-size: 80px;
+    font-weight: bold
+} 
+
+.paragraphH2{
+    font-size: 28px;
+    margin-top: -30px;
+}
+
+.paragraphName{
+    font-size: 24px;
+    font-weight: bold;
+    color: #343A40;
+}
+
+.subtitleName{
+    margin-top: -10px;
+    font-size: 20px;
+    color: #343A40;
+}
+
+.containerImageIcon{
+    gap: 30px;
+    padding: 30px 0;
+}
+
+.tagA{
+    text-decoration: none;
+}
+
+.imageIcon{
+    margin-right: 30px;
+    width: 4%;
+    text-decoration: none;
+}
+
+.containerContext{
+    /* background-color: yellow; */
+    width: 50%;
+    margin: 0 auto;
+}
+
+.paragraphContext{
+    font-size: 26px;
+    margin-bottom: 30px;
+    line-height: 45px;
+}
+
+.subtitleLinkBlack{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.subtitleLinkOrange{
+    color: rgb(177, 116, 2);
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.containerimgcenter{
+    display: block;
+    margin: 0 auto;
+}
+
+.source{
+    margin-top: -310px;
+    font-size: 13px;
+    color: #343A40;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
+.titleH3{
+    font-size: 42px;
+    font-weight: bold
+}
+
+.sourceGeladeira{
+    margin-top: -388px;
+    font-size: 13px;
+    color: #343A40;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+
+/*.pagebreak{
+    page-break-after: always;
+} */
+
